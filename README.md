@@ -23,9 +23,10 @@ Olá pessoal, aqui Luis Magalhães, a tirar um curso de IA na DIO! Com base no q
 Este projecto é um video a simular uma noticia estilo CNN
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT (https://chatgpt.com/)
-REPLICA (https://www.replicastudios.com/)
-D-ID (https://www.d-id.com/)
+
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
+- IA Genertativa **[REPLICA]([https://www.d-id.com](https://www.replicastudios.com))**
 
 
 Liste as IAs Generativas e outras ferramentas usadas
