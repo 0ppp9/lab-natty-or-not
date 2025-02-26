@@ -23,18 +23,23 @@ Olá pessoal, aqui Luis Magalhães, a tirar um curso de IA na DIO! Com base no q
 Este projecto é um video a simular uma noticia estilo CNN
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT
+ChatGPT (https://chatgpt.com/)
+REPLICA (https://www.replicastudios.com/)
+D-ID (https://www.d-id.com/)
+
 
 Liste as IAs Generativas e outras ferramentas usadas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro, foi usado o ChatGPT para criar a notícia em texto. Depois foi usado o REPLICA para passar o texto para voz. E para fazer o Video foi usado o D-ID, para misturar o audio com uma personagem criada para dizer a notícia.
+Como o REPLICA não deixa descarregar o som na versão gratuita foi usado o gravador do telemovel para capturar o audio. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado não foi o que se esperava pois agora a D-ID apresenta uma marca de água na versão gratuita, mas deu para criar o exemplo.
+O link esta em baixo, foi descarregado para o Youtube pois tinha mais de 25Mb que é o permitido pelo Github.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo 'natty' com IA, foi um bom desafio mas acho que as ferramentas ainda deixam algo a desejar por exemplo o cabelo da personagem nota-se a edição, algo que a D-ID tem que trabalhar. A marca de água corta por completo o realismo e não foi usado nenhum software de edição de video para aprimorar.
 ```
 
 ### O video foi descarregado para o Youtube
