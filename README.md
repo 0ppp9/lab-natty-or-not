@@ -25,8 +25,8 @@ Este projecto é um video a simular uma noticia estilo CNN
 ## 🤖 Tecnologias Utilizadas
 
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- IA Genertativa **[REPLICA](https://www.replicastudios.com)**
+- IA Generativa **[D-ID](https://www.d-id.com)**  geração de avatar virtual;
+- IA Genertativa **[REPLICA](https://www.replicastudios.com)** para sintetização de voz;
 
 
 Liste as IAs Generativas e outras ferramentas usadas
